@@ -216,7 +216,7 @@ git clone https://github.com/tuusuario/Shop_html_css.git
 
 **SatruxDev**
 - Website: [satruxdev.com](https://satruxdev.com)
-- GitHub: [@satruxdev](https://github.com/satruxdev)
+- GitHub: [@satruxdev](https://github.com/PedroPinteno)
 
 ## 📝 Licencia
 
